@@ -34,8 +34,6 @@ public class IntelligentTraverserRudiment {
         handleAllNumbersRecursive(travelNumbers, errorNumbers, skipNumbersSortedBySize);
 
         compareHandleComplete(travelNumbers);
-
-        // TODO: 2021/2/7 改装成接口式、非数字式的 （改装或者在核心上扩展外接）
     }
 
     public static void handleAllNumbersRecursive(List<Integer> travelNumbers, boolean[] errorNumbers, List<List<Integer>> skipNumbersSortedBySize) {

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b99d2e3e-f6d9-4ff1-a9de-ca517c40df9b" name="Default Changelist" comment="" />
+    <list default="true" id="b99d2e3e-f6d9-4ff1-a9de-ca517c40df9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/rudiment/IntelligentTraverserRudiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rudiment/IntelligentTraverserRudiment.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -72,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612775270655</updated>
       <workItem from="1612775272051" duration="461000" />
+      <workItem from="1612778027509" duration="176000" />
     </task>
     <servers />
   </component>
